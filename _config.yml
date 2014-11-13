@@ -2,13 +2,9 @@
 
 # Site settings
 title: CTYI Web Development.
-<<<<<<< HEAD
 description: "A collection of resources on web development from CTYI instructors."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-=======
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-analytics: UA-50546869-2
->>>>>>> 38e44e34167a35d872a8cb0b8f002f20bbb4ebd4
+#analytics: UA-50546869-2
 baseurl: "/ctyiweb" #important: start with /
 url: "http://domhnallohanlon.github.io"
 
