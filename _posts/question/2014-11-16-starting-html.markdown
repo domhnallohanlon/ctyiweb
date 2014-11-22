@@ -15,15 +15,15 @@ All HTML pages are written using tags to ''markup'' the document. The tags signi
 The information about the document is contained in the **head** and the content of the page itself is between
 the **body** tags. 
 
-''''
-<html>
-<head>
-    <title></title>
-</head>
-<body>
 
-</body>
-</html>
-''''
+    <html>
+     <head>
+      <title></title>
+     </head>
+     <body>
+    
+     </body>
+    </html>
+
 
 #### Headings 
