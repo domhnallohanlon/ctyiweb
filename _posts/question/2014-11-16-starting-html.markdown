@@ -6,7 +6,6 @@ author: Domhnall
 categories:
 - question
 - HTML
-- Tags
 ---
 ###Tags
 All HTML pages are written using tags to ''markup'' the document. The tags signify to the browser what that particular element is, and they usually occur in pairs, for example the opening and closing html tags below:
@@ -27,3 +26,21 @@ the **body** tags.
 
 
 #### Headings 
+
+There are several diffferent levels of headings and each level is usually styled in a different way. Here are a few examples to give you a quick idea of what they look like:
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+If you want to write this in HTML you would use the following code:
+
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+
