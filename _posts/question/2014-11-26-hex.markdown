@@ -1,7 +1,7 @@
 ---
 layout: question
 title:  "What is Hexadecimal?"
-date:   2014-11-16 16:44:46
+date:   2014-11-26 16:44:46
 author: Domhnall
 categories:
 - question
