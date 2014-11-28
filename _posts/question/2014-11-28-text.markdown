@@ -1,0 +1,31 @@
+---
+layout: question
+title:  "How do I display text?"
+date:   2014-11-28 13:37:00
+author: Domhnall
+categoaries:
+- question
+- html
+- html tags
+- text
+---
+
+### Overview
+
+On webpages like news sites and blogs the majority of the content is text based. There are lots of ways to display sentences, quotations and even blocks of code on your page and this article will discuss some of the most popular ways.
+
+#### Paragraphs
+While it is possible to simply type text into a .html document and have it displayed by a browser this is bad practice. Whenever you have a some text or paragraphs to display on your page the best tag to use is the `<p>` tag. The opening tag denotes the beginning of the paragraph and the closing tag, `</p>` marks the end of the paragraph. 
+**Browser Support**:
+
+#### Quotations
+In printed publications such as magazines or newspapers, the editors will pull snippets of memorable or important information out of the article and highlight it as a quote. In HTML this can be achieved with a pair of `<blockquote> </blockquote>` tags. As you've come to expect by now, anything between the opening and closing tags will be markedup by the browser as a quotation.
+**Browser Support**
+
+
+#### Code Blocks
+For more technical articles, such as the ones on this site, it is often useful to include some example code to support what you are taking about. The question here is, how to you write the name of a tag that you're talking about without the browser simply interpreting it as a tag? At the most basic you can use the ANSI values for your opening and closing brackets. For example the opening bracket (which is also a "less-than" symbol in mathematics) has the code `&lt;` and a closing bracket (or "greater-than" symbol) has the code `&gt;`. This means that for something as simple as a heading `<h1> main heading </h1>` you end up having to code `&lt;h1&gt; main heading &lt;/h1&gt;`. Now, maybe that's not too bad to one or two tags, but to replicate a whole webpage there surely has to be a better way - and surely there is! 
+A pair of `<code> </code>` tags will just display everything typed between them on the page, rather than having the browser try to display the actaul tabs.
+See also: <Verbatim>
+**Broswer Support**
+
