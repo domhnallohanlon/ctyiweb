@@ -1,0 +1,21 @@
+---
+layout: question
+title:  "How do I place an image in a webpage?"
+date:   2014-11-29 13:37:00
+author: Domhnall
+categories:
+- question
+- html
+- html tags
+- img
+---
+
+### Overview
+Even with paragraphs, quotes, code blocks and lists of text you will still usually need to illustrate what you are talking about with an image.
+
+#### <img>
+Unusually for HTML, the image tag is a self closing tag. This means that there is no closing tag to "match" the opening tag. Thus, the image tag looks like this: `<img />` . All the other attributes are contained inside the one tag.
+
+#### Attributes
+There are a number of attributes that you can specify for your image tag. First of all, it is probably essential that you include a path, or **reference**, to the picture you actually want to diplay on the page. To do this you include the `ref=" "` attribute. Inside the double quotes you have to specify the path to your image, including the image name and filetype. For example: `<img ref="C:\Path\to\file\image_name.jpg`. It is also recommended that you include an `alt=" "` attribute. This is to provide a fallback, or **alternative** text to display in case the image is not displayed. There are a number of reasons for this. In the event of a slow connection, some people choose to have their browsers not load images. It is also possible, especially if you are linking to an image on a third-party website, that the link may at some stage break, so the text will be displayed if the original image can't be loaded. Finally, for people with visual impairments who use a screenreader the alt tag is read to give the visitor a description of what the image is.   
+
