@@ -1,0 +1,37 @@
+---
+layout: question
+title:  "How do I change fonts on a page?"
+date:   2014-11-27 13:37:00
+author: Domhnall
+categories:
+- question
+- css
+- font
+---
+
+### Overview
+
+Every browser and operating systems has it's own set of system fonts. This means that a page written on a Linux computer might appear in a different font when viewed on Windows, OS X or even Android or iOS. To create the best viewing experience for your visitors you want you page to display consistently, and to cater for all eventualities you want to be able to specify a fall back so that the user can still see your content in the best possible font.
+
+#### Types of Font
+
+Generally, fonts are categorised into two to three different groups.
+-Serif: A serif font, such as Times New Roman has serifs or tails at the edge of most letters. The are very good for displaying printed words in newspapers, books or magazines.
+-San Serif: Sans Serif means "without serif". As you've probably guessed, the letters are simpler and less ornate. They work well when displaying text on screens.
+
+#### Font Families
+
+If you've ever used a word processor before you're probably familiar with the different fonts that are available to use. If for example we want to use the Verdana font in all our paragraphs we used the CSS font-family property:
+    
+    p{
+    font-family: Verdana;
+    }
+
+#### Fallback
+
+It is possible to specify more than one font for the `font-family` property. In this case the browser will start with the first font and work through each one until it finds one that can be displayed.
+The best practice here is to start with the most specific font name and work back to most general with each value seperated by commas. Using the above example, since Verdana is a sans serif font we would write the following:
+
+    p{
+    font-family: Verdana, sans-serif;
+    }
