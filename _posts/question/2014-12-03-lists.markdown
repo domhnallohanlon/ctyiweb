@@ -1,0 +1,47 @@
+---
+layout: question
+title:  "How do I create lists?"
+date:   2014-12-03 13:37:00
+author: Domhnall
+categories:
+- question
+- html
+- lists
+---
+
+###Overview
+
+for when you want to collect information together.
+
+#### Ordered Lists
+To signify that you are creating an ordered list (where the list is in numerical order) you simply use a pair of `<ul>` tags. Each item that you want to include goes inside it's own list item:
+    
+    <ol>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+The code above will generate the following output:
+
+1. First Item
+2. Second Item
+3. Third Item
+
+####Unordered List
+
+When the ordre of the items doesn't matter you can group your items in an unordered list like so:
+
+    <ul>
+        <li>Red</li>
+        <li>Green</li>
+        <li>Blue</li>
+    </ul>
+
+The list about will be formatted like so:
+
+- Red
+- Green
+- Blue
+
+
