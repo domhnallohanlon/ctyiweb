@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Create a Simple Grid System"
+title:  "Design a Web Form"
 date:   2014-04-18 13:37:00
 author: Domhnall
 categories:
@@ -14,7 +14,7 @@ carousel:
 ---
 
 ## Objectives
-Grid Systems are everywhere - develop a better understanding of how they work by creating your own
+All across the web, from log-in forms to search boxes to registration forms, there are lots of times when you need your site to accept input from the visitor. This project takes you through the HTML you need to create form elements and looks at some of the best practices to employ when building your own.
 
 ### Preview
 Here's what the completed project will look like.

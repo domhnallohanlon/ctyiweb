@@ -3,7 +3,7 @@ layout: question
 title:  "How do I display text?"
 date:   2014-11-28 13:37:00
 author: Domhnall
-categoaries:
+categories:
 - question
 - html
 - html tags
