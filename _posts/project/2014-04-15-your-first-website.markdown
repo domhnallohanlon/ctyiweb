@@ -11,7 +11,6 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-
 ---
 ## Objectives
 To build a multi-page portfolio website to showcase your web development work.
