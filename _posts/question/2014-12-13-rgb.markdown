@@ -1,0 +1,38 @@
+---
+layout: question
+title:  "How do I Define Colours with RGB?"
+date:   2014-12-13 13:37:00
+author: Domhnall
+categories:
+- question
+- design
+- colour
+- rgb
+---
+
+### Overview
+There are lots of different ways to prepresnet colour in code. A widely used standard is rgb, 
+or rgba if you want to create components that are transparent or semi-transparent. 
+
+### Red, Green and Blue
+You may already know from physics that the primary colours of light are red, green and blue. 
+Mixing all three will produce white light and the absence of any colour appears as black 
+to our eyes. The amounts of red, green and blue are each specified by a number between 0 
+and 255. For example red could be represented by (255, 0, 0) or one shade of grey might be 
+(125, 125, 125)
+
+### Alpha Channel
+Most modern browsers will also support a fourth parameter, known as an alpha value or 
+opacity value - opacity is just the opposite of transparency. You can set the alpha value anywhere 
+between 0 (for full transparnecy) and 1 (for full opacity).
+
+### How many colours?
+All in all there are over 16 million different colours that can be defined using RGB notation,
+256 x 256 x 256 = 16, 777, 216. 
+
+### Code Examples
+
+
+### See Also
+
+Hex Colours
