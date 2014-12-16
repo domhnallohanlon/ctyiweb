@@ -10,9 +10,8 @@ image: 850x400.png
 
         <!-- SOFTWARE TUTORIALS LIST -->
         <div class="col-lg-8">
-            <img class="img-responsive" src="{{ "/assets/img/850x400.png" | prepend: site.baseurl }}">
-
-            {% for post in site.categories['software'] %}
+            <!-- Looks in _posts for posts with a category of "softwares". The extra s was deliberate -->
+            {% for post in site.categories['softwares'] %}
                 <!-- Blog Post -->
                 <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
                 <p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>

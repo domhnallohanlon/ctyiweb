@@ -6,7 +6,7 @@ author: Domhnall
 img: 850x400.png
 thumb: 75.png
 categories: 
-- blog 
+- softwares 
 - icon fonts
 - font awesome
 ---
