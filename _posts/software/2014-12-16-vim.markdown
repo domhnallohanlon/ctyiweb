@@ -1,17 +1,17 @@
 ---
 layout: software
-title: "Atom"
-date: 2014-12-12 13:37:00
+title: "Vim"
+date: 2014-12-16 13:37:00
 author: Domhnall
 img: 850x400.png
 thumb: 75.png
 categories: 
-- softwares
+- softwares 
 - text editors
-- atom
+- vim
 ---
 
-### About Atom 
+### About Vim
 
 ### Download and Instllation
 

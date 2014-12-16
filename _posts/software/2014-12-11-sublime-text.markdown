@@ -7,8 +7,8 @@ img: 850x400.png
 thumb: 75.png
 categories: 
 - softwares 
-- icon fonts
-- font awesome
+- text editors
+- sublime text 2
 ---
 
 ### About Sublime Text 
