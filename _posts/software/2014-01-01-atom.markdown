@@ -1,0 +1,28 @@
+---
+layout: software
+title: "Atom"
+date: 2014-01-01 13:37:00
+author: Domhnall
+img: 850x400.png
+thumb: 75.png
+categories: 
+- softwares
+- text editors
+- atom
+---
+
+### About Atom 
+Atom is a modular, hackable text editor developed by Github. On the website it is described as ``A hackable text editor for the 21st Century''.
+
+
+### Download and Instllation
+Visit the Atom [website][atom.io] to download the appropriate version for your computer.
+
+
+### Package Manager
+
+### Keyboard Shortcuts
+
+
+[atom.io]: https://atom.io/
+ 
