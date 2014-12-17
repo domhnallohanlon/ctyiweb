@@ -12,9 +12,13 @@ categories:
 ---
 
 ### About Sublime Text 
-From the Sublime Text website: ``Sublime Text is a sophisticated text editor for code, markup and prose.
-You'll love the slick user interface, extraordinary features and amazing performance.''
+From the Sublime Text website: 
 
+>Sublime Text is a sophisticated text editor for code, 
+>markup and prose. You'll love the slick user interface, 
+>extraordinary features and amazing performance.''
+
+<!--more-->
 
 ### Download and Instllation
 Sublime is available to download for a variety of operating systems [here.][sublime2]

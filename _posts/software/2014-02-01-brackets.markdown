@@ -12,7 +12,11 @@ categories:
 ---
 
 ### About Brackets
-Developed by Adobe, Brackets describes itself as "A modern, open source text editor that understands web design."
+Developed by Adobe, Brackets describes itself as: 
+
+>A modern, open source text editor that understands web design."
+
+<!--more-->
 
 ### Download and Instllation
 Get your copy of brackets from the [website][brackets.io]

@@ -12,8 +12,11 @@ categories:
 ---
 
 ### About Atom 
-Atom is a modular, hackable text editor developed by Github. On the website it is described as ``A hackable text editor for the 21st Century''.
+Atom is a modular, hackable text editor developed by Github. On the website it is described as 
 
+>A hackable text editor for the 21st Century.
+
+<!--more-->
 
 ### Download and Instllation
 Visit the Atom [website][atom.io] to download the appropriate version for your computer.

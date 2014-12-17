@@ -1,8 +1,6 @@
 ###README.md
 ============
 
-###Credits
-This is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/). Visit the [live demo](https://st4ple.github.io/solid-jekyll/) for a preview. 
 
 ###Usage
 This theme can be customized, built and published straight from GitHub, thanks to [GitHub Pages](https://pages.github.com/). A local installation of Jekyll isn't even necessary!
@@ -13,19 +11,21 @@ This theme can be customized, built and published straight from GitHub, thanks t
 Most general settings and data like site name, colors, address, etc. can be configured and changed right in the main config file: `/_config.yml`
 The content of the Home page can be changed here: `/home.html`
 The content of the About page can be changed here: `/about.html`
-The content of the Portfolio page can be changed here:`/portfolio.html`
-The content of the Contact page can be changed here:`/contact.html`
+The content of the HTML page can be changed here:`/html.html`
+The content of the CSS page can be changed here:`/css.html`
+The content of the Javascript page can be changed here:`/javascript.html`
+The content of the Software page can be changed here:`/software.html`
 
 #####Blog post
 Create a Blog post by creating a file called `yyyy-mm-dd-name-of-post-like-this.markdown` in the `/_posts/blog/` directory with the following template:
 ```markdown
 ---
-layout: post          #important: don't change this
+layout: post          #important: needs to be type post
 title: "Name of post like this"
 date: yyyy-mm-dd hh:mm:ss
 author: Name
 categories:
-- blog                #important: leave this here
+- blog                #important: leave "blog" first
 - category1
 - category2
 - ...
@@ -67,13 +67,19 @@ title:  "Do I have a question?"
 date: yyyy-mm-dd hh:mm:ss
 author: First Last
 categories:
-- question            #important: leave this here
+- question       #important: leave question here, add other categories below
+- first category
+- another category
 ---
-####Can I use this theme for my website?
-Of course you can!
+####Can I Borrow a Feeling?
+Can you lend me a jar of love?
 ```
+
 ####Publish
 To publish with [GitHub Pages](https://pages.github.com/), simply create a branch called `gh-pages`in your repository. GitHub will build your site automatically and publish it at `http://yourusername.github.io/repositoryname/`.  
 If there are problems with loading assets like CSS files and images, make sure that the `baseurl` in the `_config.yml`is set correctly (it should say `/repositoryname`).
 
 If you want to host your website somewhere else than GitHub (or just would like to customize and build your site locally), please check out the [Jekyll documentation](http://jekyllrb.com/). 
+
+###Credits
+This is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/). Visit the [live demo](https://st4ple.github.io/solid-jekyll/) for a preview. 
