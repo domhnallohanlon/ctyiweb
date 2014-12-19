@@ -1,0 +1,29 @@
+---
+layout: software
+title: "Brackets.io"
+date: 2014-02-01 13:37:00
+author: Domhnall
+img: 850x400.png
+thumb: 75.png
+categories: 
+- softwares 
+- text editors
+- brackets
+---
+
+### About Brackets
+Developed by Adobe, Brackets describes itself as: 
+
+>A modern, open source text editor that understands web design."
+
+<!--more-->
+
+### Download and Instllation
+Get your copy of brackets from the [website][brackets.io]
+
+### Package Manager
+
+### Keyboard Shortcuts
+
+
+[brackets.io]:http://brackets.io/
