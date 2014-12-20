@@ -58,6 +58,25 @@ website: http://www.internet.com
 ####This is a heading
 This is a regular paragraph. Write as much as you like.
 ```
+####Software Post
+Create a Software post (that is listed in the Software section on the Home page) in this directory by creating a file called `yyyy-mm-dd-name-of-software.markdown` in the `/_posts/software/` directory with the following template:
+```markdown
+---
+layout: software
+title:  "Yet Another Text Editor"
+date: yyyy-mm-dd hh:mm:ss
+author: First Last
+categories:
+- softwares       #note: softwares rather than software
+- first category
+- another category
+---
+####About the editor
+Some intro info goes here
+<!--more -->
+Anything below the excerpt seperator gets ignored on the preview page.
+```
+
 #####Question entry
 Create a Question entry (that is listed in the Frequently Asked section on the Home page) in this directory by creating a file called `yyyy-mm-dd-do-i-have-a-question.markdown` in the `/_posts/project/` directory with the following template:
 ```markdown
