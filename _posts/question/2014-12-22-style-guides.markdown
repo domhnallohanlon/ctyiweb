@@ -14,6 +14,9 @@ categories:
 Strictly speaking, there is no right or wrong way to write code - regardless of what language you're programming in. In languages that ignore white space, such as HTML, CSS and JavaScript, you could - in theory at least - write all 
 your code on one line. 
 
+### Google HTML/CSS Style Guide
+Check it out [here](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
 ### Google Javascript Style Guide
-[link][http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml]
+Take a looks at Google's guide to writing good javascript [here][http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml]
 
