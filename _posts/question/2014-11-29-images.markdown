@@ -13,7 +13,9 @@ categories:
 ### Overview
 Even with paragraphs, quotes, code blocks and lists of text you will still usually need to illustrate what you are talking about with an image.
 
-#### <img>
+<!--more-->
+
+#### <img> Syntax
 Unusually for HTML, the image tag is a self closing tag. This means that there is no closing tag to "match" the opening tag. Thus, the image tag looks like this: `<img />` . All the other attributes are contained inside the one tag.
 
 #### Attributes

@@ -15,6 +15,13 @@ categories:
 Often when you are designing a page or app you will need to group several elements together, for example a menu at the top or side of the page, or perhaps a selection of thhumbnails if you are making an image gallery app.
 In cases such as this the `<div>` tag is your friend
 
+<!--more-->
+
 #### <DIV>
 
-The div tag is a sub-division (div-ision?) of a page where other elements can easily be grouped together. Just like most tags a div begins with an opening tag `<div>` and ends with a closing tag `</div>`.
+A DIV is what is known as a block element in HTML. The div tag is a sub-division (div-ision?) of a page where other elements can easily be grouped together. Just like most tags a div begins with an opening tag `<div>` and ends with a closing tag `</div>`. The useful thing about DIVs is that they can be styled with CSS, and when given their own ID or Class attribute you can acheive a high amount of control of where elements are positioned on your page and how they appear.
+
+
+#### <SPAN>
+
+

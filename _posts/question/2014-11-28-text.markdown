@@ -14,6 +14,8 @@ categories:
 
 On webpages like news sites and blogs the majority of the content is text based. There are lots of ways to display sentences, quotations and even blocks of code on your page and this article will discuss some of the most popular ways.
 
+<!--more-->
+
 #### Paragraphs
 While it is possible to simply type text into a .html document and have it displayed by a browser this is bad practice. Whenever you have a some text or paragraphs to display on your page the best tag to use is the `<p>` tag. The opening tag denotes the beginning of the paragraph and the closing tag, `</p>` marks the end of the paragraph. 
 **Browser Support**:
