@@ -23,5 +23,7 @@ A DIV is what is known as a block element in HTML. The div tag is a sub-division
 
 
 #### <SPAN>
+Another block element that can be positioned as you require is the `span` tag.
+
 
 
