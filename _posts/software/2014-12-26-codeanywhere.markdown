@@ -16,14 +16,6 @@ Code in all the places!
 
 <!--more-->
 
-### Koding.com
-Get started for free at [koding.com](https://koding.com)
-
->Koding is a developer community and cloud development environment where 
->developers come together and code in the browser – with a real development 
->server to run their code. Developers can work, collaborate, write and run 
->apps without jumping through hoops and spending unnecessary money.
-
 ### CodeAnywhere.com
 Try out this free online IDE at [codeanwhere.com](https://codeanywhere.com)
 
