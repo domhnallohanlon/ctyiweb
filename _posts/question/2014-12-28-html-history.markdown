@@ -2,12 +2,13 @@
 layout: question
 title:  "Where did HTML/CSS come from?"
 date:   2014-12-28 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
--question
--html
--css
--history
+- question
+- html
+- css
+- history
 ---
 
 ### Overview

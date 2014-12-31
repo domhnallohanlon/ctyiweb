@@ -1,13 +1,14 @@
 ---
 layout: question
 title:  "How do I resize elements on a page?"
-date:   2014-21-23 13:37:00
+date:   2014-12-23 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
--question
--html
--css
--resizing
+- question
+- html
+- css
+- resizing
 ---
 
 ### Overview

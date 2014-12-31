@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I style text?"
 date:   2014-12-05 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

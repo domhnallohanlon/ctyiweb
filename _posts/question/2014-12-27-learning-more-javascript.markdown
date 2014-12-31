@@ -2,11 +2,12 @@
 layout: question
 title:  "Where to from here?"
 date:   2014-12-24 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
--question
--javascript
--elearning
+- question
+- javascript
+- elearning
 ---
 
 ### Overview

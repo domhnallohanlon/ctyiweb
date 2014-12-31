@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I include Javascript in a webpage?"
 date:   2014-12-06 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

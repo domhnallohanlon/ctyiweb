@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I create pop-up boxes?"
 date:   2014-12-09 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

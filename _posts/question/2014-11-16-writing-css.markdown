@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I write CSS?"
 date:   2014-11-16 16:54:46
+thumb: 75.png
 author: Domhnall
 categories:
 - question

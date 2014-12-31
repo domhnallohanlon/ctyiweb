@@ -2,6 +2,7 @@
 layout: question
 title:  "Is there a 'right' way to write code?"
 date:   2014-12-22 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

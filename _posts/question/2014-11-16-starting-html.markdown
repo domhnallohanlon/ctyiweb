@@ -2,6 +2,7 @@
 layout: question
 title:  "What is HTML?"
 date:   2014-11-16 16:44:46
+thumb: 75.png
 author: Domhnall
 categories:
 - question

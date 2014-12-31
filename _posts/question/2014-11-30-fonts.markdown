@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I change fonts on a page?"
 date:   2014-11-27 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

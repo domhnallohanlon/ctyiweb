@@ -2,6 +2,7 @@
 layout: question
 title:  "What is Hexadecimal?"
 date:   2014-11-26 16:44:46
+thumb: 75.png
 author: Domhnall
 categories:
 - question

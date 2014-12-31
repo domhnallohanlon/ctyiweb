@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I check my CSS is OK?"
 date:   2014-12-21 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question

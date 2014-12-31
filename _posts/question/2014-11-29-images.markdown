@@ -2,6 +2,7 @@
 layout: question
 title:  "How do I place an image in a webpage?"
 date:   2014-11-29 13:37:00
+thumb: 75.png
 author: Domhnall
 categories:
 - question
