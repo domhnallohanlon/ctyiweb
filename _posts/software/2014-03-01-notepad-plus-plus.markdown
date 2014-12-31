@@ -4,7 +4,7 @@ title: "Notepad++"
 date: 2014-03-01 13:37:00
 author: Domhnall
 img: 850x400.png
-thumb: 75.png
+thumb: notepadpp75.png
 categories: 
 - softwares 
 - text editors

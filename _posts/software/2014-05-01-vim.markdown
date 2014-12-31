@@ -4,7 +4,7 @@ title: "Vim"
 date: 2014-12-16 13:37:00
 author: Domhnall
 img: 850x400.png
-thumb: 75.png
+thumb: vim75.png
 categories: 
 - softwares 
 - text editors
