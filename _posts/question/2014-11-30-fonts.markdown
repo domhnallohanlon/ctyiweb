@@ -13,6 +13,7 @@ categories:
 ### Overview
 
 Every browser and operating systems has it's own set of system fonts. This means that a page written on a Linux computer might appear in a different font when viewed on Windows, OS X or even Android or iOS. To create the best viewing experience for your visitors you want you page to display consistently, and to cater for all eventualities you want to be able to specify a fall back so that the user can still see your content in the best possible font.
+<!--more-->
 
 #### Types of Font
 

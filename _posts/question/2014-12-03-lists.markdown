@@ -13,6 +13,7 @@ categories:
 ###Overview
 
 There are lots of occassions when you might want to group data together in a list. If you have ever used word processing software such as Microsoft Word you are probably already familiar with numbered lists and bulleted lists. In HTML these are referred to as Ordered lists and unordered lists respectively.
+<!--more-->
 
 #### Ordered Lists
 To signify that you are creating an ordered list (where the list is in numerical order) you simply use a pair of `<ul>` tags. Each item that you want to include goes inside it's own list item:
