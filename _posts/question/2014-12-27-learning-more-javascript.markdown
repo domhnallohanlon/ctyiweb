@@ -1,6 +1,6 @@
 ---
 layout: question
-title:  "Where to from here?"
+title:  "Learning More JavaScript?"
 date:   2014-12-24 13:37:00
 thumb: 75.png
 author: Domhnall
